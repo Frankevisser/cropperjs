@@ -42,7 +42,7 @@
   var CLASS_MOVE = NAMESPACE + '-move';
 
   // Data keys
-  var DATA_ACTION = 'action';
+  var DATA_ACTION = 'crop-action';
   var DATA_PREVIEW = 'preview';
 
   // Drag modes
